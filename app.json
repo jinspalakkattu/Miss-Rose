@@ -77,6 +77,11 @@
       "value": "CAACAgQAAxkBAAEHAedfwdK1GHtSZe1Q0F0q6vWRsxL91gAC-QgAAoThEVJCGmPkkeA1_R4E"
     }
   },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
   "addons": [
     {
       "plan": "heroku-postgresql",
